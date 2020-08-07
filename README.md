@@ -4,5 +4,5 @@ Video Explicativo: https://youtu.be/zN94I2_saIg
 
 Sigueme en mis redes
 
-https://www.youtube.com/channel/UCP_XoRjydHQvjpZ5pYG2vbQ
-https://www.twitch.tv/debugstream
+* https://www.youtube.com/channel/UCP_XoRjydHQvjpZ5pYG2vbQ
+* https://www.twitch.tv/debugstream
