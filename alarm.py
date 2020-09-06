@@ -11,7 +11,7 @@ def on_message(client, userdata, message):
 
 client = mqtt.Client()
 client.connect("localhost")
-client.subscribe("laboratorio/#")
+client.subscribe("casa/#")
 client.on_message = on_message
 
 print("Alarma Lista!!")

@@ -11,6 +11,6 @@ zone = sys.argv[1]
 while True:
     temp = randrange(10, 35)
     print(f"Temperatura en {zone}: {temp}")
-    client.publish(f"laboratorio/{zone}/temperatura", temp)
+    client.publish(f"casa/{zone}/temperatura", temp)
     time.sleep(1)
 
